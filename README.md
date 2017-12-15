@@ -5,6 +5,9 @@ python setup.py install
 ```
 
 ## Usage
+
+```
+> list_yt_channel --help 
 Usage: list_yt_channel [OPTIONS]
 
 Options:
@@ -20,3 +23,4 @@ Options:
                                otherwise list all
   -v, --verbose                Verbosity level, WARN, INFO, DEBUG
   --help                       Show this message and exit.
+```
